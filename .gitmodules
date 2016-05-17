@@ -1,0 +1,3 @@
+[submodule "cpc2"]
+	path = cpc2
+	url = https://github.com/ngzHappy/cpc2/
